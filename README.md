@@ -113,11 +113,11 @@
 >
 >1.7
 >>1.7.1
->>> + ***/SCDA/SCDA_cub_resnet50/about_pretraineds/WACD_R50.py*** corresponds to the main experiments(not ablation study) on **ResNet-50 pre-trained model** (related with tables 1, 2, 3, 5)
+>>> + ***/SCDA/SCDA_cub_resnet50/about_pretraineds/WACD_R50.py*** and ***/SCDA/SCDA_cub_resnet50/about_pretraineds/WACD_proxy_anchor_trained.py*** are actually equivalent, which all corresponds to the main experiments(not ablation study) on **ResNet-50 pre-trained model** (related with tables 1, 2, 3, 5)
 >>> + And the corresponding dataset is cub200-2011;
 >>
 >>1.7.2
->>> + ***/SCDA/SCDA_cars_resnet50/about_pretraineds/WACD_R50.py*** corresponds to the main experiments(not ablation study) on **ResNet-50 pre-trained model**(related with tables 1, 2, 3, 5)
+>>> + ***/SCDA/SCDA_cars_resnet50/about_pretraineds/WACD_R50.py*** and ***/SCDA/SCDA_cars_resnet50/about_pretraineds/WACD_proxy_anchor_trained.py*** are actually equivalent, which all  corresponds to the main experiments(not ablation study) on **ResNet-50 pre-trained model**(related with tables 1, 2, 3, 5)
 >>> + And the corresponding dataset is cars196; 
 
 

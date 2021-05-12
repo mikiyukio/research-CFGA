@@ -15,3 +15,8 @@
 > opencv-python         4.1.0.25  
 > NVIDIA Geforce 1060
 
+## 1.
+>
+
+
+-------

@@ -45,7 +45,7 @@
 >>>***'checkpoint_100_0.9934.pth'*** is the name of the model saved in ***/SCDA/SCDA_cub_resnet50/models*** which you want to evaluate.   
 >>>And you can evaluate a series models belongs to a certain baseline in a evaluating run.  
 >>>After the feature extract procedure(i.e., WACD_DGCRL_batch_2.py) finish, the extracted features will be saved in ***.\SCDA\SCDA_cub_resnet50\datafile***.   
->>>Specifically, for the extracted features correspondings to the model named as ***'checkpoint_100_0.9934.pth'***, the extraced features will be saved in the folder named as ***.\SCDA\SCDA_cub_resnet50\datafile\checkpoint_100_0_9934_pth***.  
+>>>Specifically, for the extracted features correspondings to the model named as ***'checkpoint_100_0.9934.pth'***, the extraced features will be saved in the folder named  ***.\SCDA\SCDA_cub_resnet50\datafile\checkpoint_100_0_9934_pth***.  
 >>>The extracted features can be used for image retrieval and the calculation of Recall@K/MAP@k. We will introduce this later.    
 >>> + The above detailed statements will only be stated for just once, as the operations on other procedures is similar. 
 >>

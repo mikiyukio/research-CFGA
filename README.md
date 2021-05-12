@@ -23,8 +23,8 @@
 > > + CUB-200-2011 provided models: https://drive.google.com/drive/folders/1XVcAx69vr-irg65fAHJx9mQK89ExBlQL
 > > + pytorch pretrained models: https://drive.google.com/drive/folders/1nE37By2q_ABNACaSwdehffgTzd3rL4Fv or https://pytorch.org/vision/stable/_modules/torchvision/models/resnet.html
 >
-> + for all the trained models belongs to CARS196 dataset, please save them in /SCDA/SCDA_cars_resnet50/models 
-> + for all the trained models belongs to CUB-200-2011 dataset, please save them in /SCDA/SCDA_cub_resnet50/models 
+> + for all the trained models belongs to CARS196 dataset, please save them in ***/SCDA/SCDA_cars_resnet50/models*** 
+> + for all the trained models belongs to CUB-200-2011 dataset, please save them in ***/SCDA/SCDA_cub_resnet50/models*** 
 
 
 ## 1.

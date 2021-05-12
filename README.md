@@ -15,6 +15,10 @@
 > opencv-python         4.1.0.25  
 > NVIDIA Geforce 1060
 
+## 0.
+>before debug this work, make sure that you have prepare the dataset as [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
+
+
 ## 1.
 >1.1
 >>1.1.1

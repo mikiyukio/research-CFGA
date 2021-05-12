@@ -99,6 +99,17 @@
 >>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8* (**MS loss/cosface** parts),
 >>> + And the corresponding dataset is cars196; 
 >>> + The corresponding equation of this ablation study is Eq.6
+>
+>1.6
+>>1.6.1
+>>> + ***./SCDA/SCDA_cub_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8* (**ResNet-50 pre-trained model** part),  
+>>> + And the corresponding dataset is cub200-2011;
+>>> + The corresponding equation of this ablation study is Eq.6
+>>
+>>1.6.2
+>>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8* (**ResNet-50 pre-trained model** part),
+>>> + And the corresponding dataset is cars196; 
+>>> + The corresponding equation of this ablation study is Eq.6
 
 
 

@@ -91,11 +91,11 @@
 >
 >1.5
 >>1.5.1
->>> + ***./SCDA/SCDA_cub_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8*(**MS loss/cosface parts**),  
+>>> + ***./SCDA/SCDA_cub_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8* (**MS loss/cosface **parts),  
 >>> + And the corresponding dataset is cub200-2011;
 >>
 >>1.5.2
->>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8*(**MS loss/cosface parts**),
+>>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_direction.py*** corresponds to the ablation study of *table 8* (**MS loss/cosface **parts),
 >>> + And the corresponding dataset is cars196; 
 
 

@@ -60,19 +60,23 @@
 >>1.2.1
 >>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of **Proxy anchor loss** baseline (related to Tables 1, 2, 3),  
 >>> + And the corresponding dataset is cub200-2011;
+>>> + And the dimension size of proxy anchor loss embedding is 512.
 >>
 >>1.2.2
 >>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of **Proxy anchor loss** baseline (related to Tables 1, 2, 3),
 >>> + And the corresponding dataset is cars196; 
+>>> + And the dimension size of proxy anchor loss embedding is 512.
 >
 >1.3
 >>1.3.1
 >>> + ***./SCDA/SCDA_cars_resnet50/ablation_study/WACD_CFGA_SCDA.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 1, 2, 3, 6),  
 >>> + And the corresponding dataset is cub200-2011;
+>>> + And the dimension size of **MS loss/cosface/arcface** embedding is 512.
 >>
 >>1.3.2
 >>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_CFGA_SCDA.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 1, 2, 3, 6),
 >>> + And the corresponding dataset is cars196; 
+>>>  + And the dimension size of **MS loss/cosface/arcface** embedding is 512.
 
 
 

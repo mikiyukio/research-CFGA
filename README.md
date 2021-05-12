@@ -13,7 +13,7 @@
 > matplotlib 3.0.3  
 > opencv-contrib-python 4.1.0.25  
 > opencv-python         4.1.0.25  
-> NVIDIA Geforce 1060
+> NVIDIA Geforce GTX 1060
 
 ## 0.
 > + Before debugging this work, make sure that you have prepared the dataset as [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)

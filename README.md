@@ -32,7 +32,7 @@
 ## 1.
 >1.1
 >>1.1.1
->>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),  
+>>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of **DGPCRL** baseline (related to Tables 1, 2, 3, and 6),  
 >>> + And the corresponding dataset is cub200-2011;
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1bqRyOl4ohmtBkhwgFZXNLzyZsVU3nnpH)
 >>> 
@@ -50,17 +50,30 @@
 >>> + The above detailed statements will only be stated for just once, as the operations on other procedures is similar. 
 >>
 >>1.1.2
->>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),
+>>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of **DGPCRL** baseline (related to Tables 1, 2, 3, and 6),
 >>> + And the corresponding dataset is cars196; 
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1MVPiA95FcVT4Hn40799w6pYVY0F6yaVd)  
 >
 >1.2
 >>1.2.1
->>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of Proxy anchor loss baseline (related to Tables 1, 2, 3),  
+>>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of **Proxy anchor loss** baseline (related to Tables 1, 2, 3),  
 >>> + And the corresponding dataset is cub200-2011;
 >>
 >>1.2.2
->>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of Proxy anchor loss baseline (related to Tables 1, 2, 3),
+>>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of **Proxy anchor loss** baseline (related to Tables 1, 2, 3),
 >>> + And the corresponding dataset is cars196; 
+>
+>1.3
+>>1.3.1
+>>> + ***./SCDA/SCDA_cars_resnet50/ablation_study/WACD_CFGA_SCDA.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 1, 2, 3, 6),  
+>>> + And the corresponding dataset is cub200-2011;
+>>
+>>1.3.2
+>>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_CFGA_SCDA.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 1, 2, 3, 6),
+>>> + And the corresponding dataset is cars196; 
+
+
+
+
 
 -------

@@ -56,11 +56,11 @@
 >
 >1.2
 >>1.2.1
->>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),  
+>>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of Proxy anchor loss baseline (related to Tables 1, 2, 3),  
 >>> + And the corresponding dataset is cub200-2011;
 >>
 >>1.2.2
->>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),
+>>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_proxy_anchor_trained.py*** is the test program of Proxy anchor baseline (related to Tables 1, 2, 3),
 >>> + And the corresponding dataset is cars196; 
 
 -------

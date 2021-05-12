@@ -160,6 +160,7 @@
 >>> + And the corresponding dataset is cars196;
 >>> + The corresponding equation of this ablation study is Eq.5 
 
+## 2. calaulate Recall@K/MAP@K
 
 
 

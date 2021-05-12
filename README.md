@@ -77,6 +77,17 @@
 >>> + ***/SCDA/SCDA_cars_resnet50/ablation_study/WACD_CFGA_SCDA.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 1, 2, 3, 6),
 >>> + And the corresponding dataset is cars196; 
 >>>  + And the dimension size of **MS loss/cosface/arcface** embedding is 512.
+>
+>1.4
+>>1.4.1
+>>> + ***./SCDA/SCDA_cub_resnet50/WAOCD/WACD_1024.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 4),  
+>>> + And the corresponding dataset is cub200-2011;
+>>> + And the dimension size of **MS loss/cosface/arcface** embedding is 1024.
+>>
+>>1.4.2
+>>> + ***./SCDA/SCDA_cub_resnet50/WAOCD/WACD_1024.py*** is the test program of **MS loss/cosface/arcface** baseline (related to Tables 4),
+>>> + And the corresponding dataset is cars196; 
+>>>  + And the dimension size of **MS loss/cosface/arcface** embedding is 1024.
 
 
 

@@ -137,6 +137,24 @@
 >>1.9.2
 >>> + ***/SCDA/SCDA_cars_resnet50/about_pretraineds/WACD_R152.py*** corresponds to the main experiments(not ablation study) on **ResNet-152 pre-trained model** (related with tables 5)
 >>> + And the corresponding dataset is cars196; 
+>
+>1.10
+>>1.10.1
+>>> + ***/SCDA/SCDA_cub_resnet50/about_pretraineds/WACD_ablation_eq5_R50.py*** corresponds to the ablation study of *table 7* (**ResNet-50 pre-trained model** part)
+>>> + And the corresponding dataset is cub200-2011;
+>>
+>>1.10.2
+>>> + ***/SCDA/SCDA_cars_resnet50/about_pretraineds/WACD_ablation_eq5_R50.py*** corresponds to the ablation study of *table 7* (**ResNet-50 pre-trained model** part)
+>>> + And the corresponding dataset is cars196; 
+>
+>1.11
+>>1.11.1
+>>> + ***/SCDA/SCDA_cub_resnet50/about_pretraineds/WACD_ablation_eq5_R101.py*** corresponds to the ablation study of *table 7* (**ResNet-101 pre-trained model** part)
+>>> + And the corresponding dataset is cub200-2011;
+>>
+>>1.11.2
+>>> + ***/SCDA/SCDA_cars_resnet50/about_pretraineds/WACD_ablation_eq5_R101.py*** corresponds to the ablation study of *table 7* (**ResNet-101 pre-trained model** part)
+>>> + And the corresponding dataset is cars196; 
 
 
 

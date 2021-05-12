@@ -25,24 +25,27 @@
 >
 > + for all the trained models belongs to CARS196 dataset, please save them in ***/SCDA/SCDA_cars_resnet50/models*** 
 > + for all the trained models belongs to CUB-200-2011 dataset, please save them in ***/SCDA/SCDA_cub_resnet50/models*** 
-
+> + all procedures related to CARS196 dataset is in ***/SCDA/SCDA_cars_resnet50/*** 
+> + all procedures related to CUB-200-2011 dataset is in ***/SCDA/SCDA_cub_resnet50/*** 
 
 ## 1.
 >1.1
 >>1.1.1
 >>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),  
->>> + and the corresponding dataset is cub200-2011;
+>>> + And the corresponding dataset is cub200-2011;
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1bqRyOl4ohmtBkhwgFZXNLzyZsVU3nnpH)
+>>> 
 >>> + PARA=[
         'checkpoint_100_0.9934.pth',
         'checkpoint_105_0.9960.pth',
         'checkpoint_110_0.9945.pth',
 ]
+>>>
 
 >
 >>1.1.2
 >>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),
->>> + and the corresponding dataset is cars196; 
+>>> + And the corresponding dataset is cars196; 
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1MVPiA95FcVT4Hn40799w6pYVY0F6yaVd)
 
 

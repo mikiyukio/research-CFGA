@@ -33,7 +33,8 @@
 >1.1
 >>1.1.1
 >>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of **DGPCRL** baseline (related to Tables 1, 2, 3, and 6),  
->>> + And the corresponding dataset is cub200-2011;
+>>> + And the corresponding dataset is cub200-2011;   
+>>> + And the dimension size of DGPCRL embedding is 4096.
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1bqRyOl4ohmtBkhwgFZXNLzyZsVU3nnpH)
 >>> 
 >>> + if you want to run this procedure, change the following code exists in it; 
@@ -51,7 +52,8 @@
 >>
 >>1.1.2
 >>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of **DGPCRL** baseline (related to Tables 1, 2, 3, and 6),
->>> + And the corresponding dataset is cars196; 
+>>> + And the corresponding dataset is cars196;   
+>>> + And the dimension size of DGPCRL embedding is 4096.
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1MVPiA95FcVT4Hn40799w6pYVY0F6yaVd)  
 >
 >1.2

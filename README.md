@@ -37,11 +37,11 @@
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1bqRyOl4ohmtBkhwgFZXNLzyZsVU3nnpH)
 >>> 
 >>> + if you want to run this procedure, change the following code exists in it; 
->>>  PARA=[
+>>>  `PARA=[
         'checkpoint_100_0.9934.pth',
         'checkpoint_105_0.9960.pth',
         'checkpoint_110_0.9945.pth',
-]
+]`
 >>>'checkpoint_100_0.9934.pth' is the name of the model saved in ***/SCDA/SCDA_cub_resnet50/models*** which you want to evaluate. 
 >>>And you can evaluate a series models belongs to a certain baseline in a evaluating run.
 

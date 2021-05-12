@@ -52,7 +52,7 @@
 >>1.1.2
 >>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),
 >>> + And the corresponding dataset is cars196; 
->>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1MVPiA95FcVT4Hn40799w6pYVY0F6yaVd)
+>>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1MVPiA95FcVT4Hn40799w6pYVY0F6yaVd)  
 >1.2
 >>1.2.1
 >>> + ***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),  

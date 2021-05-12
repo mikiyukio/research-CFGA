@@ -171,7 +171,7 @@
 >     ***\SCDA\SCDA_cub_resnet50\WAOCD\compute_map_test_BATCH.py*** is a right implementation.  
 >          ***\SCDA\SCDA_cars_resnet50\WAOCD\compute_map_test_BATCH.py*** is a right implementation.   
 
-## 2. email
+## 3. email
 hello_yuhan@163.com
 
 

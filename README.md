@@ -163,9 +163,9 @@
 ## 2. calaulate Recall@K/MAP@K
 
 >(1).if you want to compute Recall@K:
->     *\SCDA\SCDA_cub_resnet50\WAOCD\compute_recall_as_ms.py* is a right implementation. 
+>     *\SCDA\SCDA_cub_resnet50\WAOCD\compute_recall_as_ms.py* is a right implementation.   
 >(2).if you want to compute Recall@K/MAP@k:
->     *\SCDA\SCDA_cub_resnet50\WAOCD\compute_map_test_BATCH.py* is a right implementation.
+>     *\SCDA\SCDA_cub_resnet50\WAOCD\compute_map_test_BATCH.py* is a right implementation.  
 
 
 

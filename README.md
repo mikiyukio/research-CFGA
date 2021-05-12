@@ -48,7 +48,7 @@
 >>>Specifically, for the extracted features correspondings to the model named as ***'checkpoint_100_0.9934.pth'***, the extraced features will be saved in the folder named as ***.\SCDA\SCDA_cub_resnet50\datafile\checkpoint_100_0_9934_pth***.  
 >>>The extracted features can be used for image retrieval and the calculation of Recall@K/MAP@k. We will introduce this later.    
 >>> + The above detailed statements will only be stated for just once, as the operations on other procedures is similar. 
->
+>>
 >>1.1.2
 >>> + ***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),
 >>> + And the corresponding dataset is cars196; 

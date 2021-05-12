@@ -17,7 +17,8 @@
 
 ## 0.
 > + Before debugging this work, make sure that you have prepared the dataset as [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
-> + You need to do several slightly adjustments on ***.\SCDA\SCDA_cub_resnet50\files.py** and ***.\SCDA\SCDA_cars_resnet50\files_cars196.py***, the detailed operations are very similar with the introduction in [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
+> + You need to do several slightly adjustments on ***.\SCDA\SCDA_cub_resnet50\files.py***, the detailed operations are very similar with the introduction in [here](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md)
+> + You need to do several slightly adjustments on ***.\SCDA\SCDA_cars_resnet50\files_cars196.py***, the detailed operations are very similar with the introduction in [here](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
 > + Because the proposed CFGA method is not an optimization method and it can be combined with certain DML baselines or pertrain models, we provide some trained models to convenient readers (includes some models trained by us ,some [pytorch provided pre-trained models](https://pytorch.org/vision/stable/_modules/torchvision/models/resnet.html) and trained-model provided by [proxy-anchor loss](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)).
 > > + CARS196 provided models:https://drive.google.com/drive/folders/17qfulk7GsDxmIb21Df_M-_pvWP1lwLTO
 > > + CUB-200-2011 provided models: https://drive.google.com/drive/folders/1XVcAx69vr-irg65fAHJx9mQK89ExBlQL

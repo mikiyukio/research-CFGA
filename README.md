@@ -32,6 +32,12 @@
 >>1.1.1
 >>>***.\SCDA\SCDA_cub_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),  
 >>>and the corresponding dataset is cub200-2011; You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1bqRyOl4ohmtBkhwgFZXNLzyZsVU3nnpH)
+>>>PARA=[
+        'checkpoint_100_0.9934.pth',
+        'checkpoint_105_0.9960.pth',
+        'checkpoint_110_0.9945.pth',
+]
+
 >
 >>1.1.2
 >>>***.\SCDA\SCDA_cars_resnet50\WAOCD\WACD_DGCRL_batch_2.py*** is the test program of DGPCRL baseline (related to Tables 1, 2, 3, and 6),

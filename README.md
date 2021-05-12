@@ -42,7 +42,7 @@
         'checkpoint_105_0.9960.pth',
         'checkpoint_110_0.9945.pth',
 ]`
->>>'checkpoint_100_0.9934.pth' is the name of the model saved in ***/SCDA/SCDA_cub_resnet50/models*** which you want to evaluate. 
+>>>***'checkpoint_100_0.9934.pth'*** is the name of the model saved in ***/SCDA/SCDA_cub_resnet50/models*** which you want to evaluate. 
 >>>And you can evaluate a series models belongs to a certain baseline in a evaluating run.
 
 >

@@ -16,7 +16,7 @@
 > NVIDIA Geforce 1060
 
 ## 0.
-> + before debug this work, make sure that you have prepare the dataset as [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
+> + before debugging this work, make sure that you have prepare the dataset as [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
 > + you need to do several slightly adjustments on ***.\SCDA\SCDA_cub_resnet50\files.py** and ***.\SCDA\SCDA_cars_resnet50\files_cars196.py**, the detailed operations are very similar with the introduction in [1](https://github.com/mikiyukio/CFGA_CUB200-2011_train/blob/main/README.md) and [2](https://github.com/mikiyukio/CFGA_CARS196_train/blob/main/README.md)
 
 

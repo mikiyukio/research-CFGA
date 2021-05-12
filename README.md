@@ -36,7 +36,7 @@
 >>> + And the corresponding dataset is cub200-2011;
 >>> + You can use your own trained models, or just download our provided models from [here](https://drive.google.com/drive/folders/1bqRyOl4ohmtBkhwgFZXNLzyZsVU3nnpH)
 >>> 
->>> +if you want to run this procedure, change the following code exists in it; 
+>>> + if you want to run this procedure, change the following code exists in it; 
 >>> 'checkpoint_100_0.9934.pth' is the name of the model saved in ***/SCDA/SCDA_cub_resnet50/models*** which you want to evaluate.
 >>>  PARA=[
         'checkpoint_100_0.9934.pth',

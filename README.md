@@ -3,6 +3,8 @@
 if you want to refer the implementation of CFGA method, please goto the following repo first.
 https://github.com/mikiyukio/CFGA
 
+This CFGA-related repo have not been carefully organized and may be somewhat messy.
+
 ## requirements
 > python                3.6.5  
 > numpy 1.16.3  

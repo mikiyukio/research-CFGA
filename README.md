@@ -1,6 +1,6 @@
 # research-CFGA
 
-if you want to refer the implementation of CFGA method, please goto the following repo first.
+if you want to refer the implementation of CFGA method, please goto the following repo first,which is the official implementation of CFGA.
 https://github.com/mikiyukio/CFGA
 
 Current CFGA-related repo have not been carefully organized and may be somewhat messy.
